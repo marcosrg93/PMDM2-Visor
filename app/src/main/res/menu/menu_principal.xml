@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/action_rotate" android:title="@string/action_rotate"
+         app:showAsAction="never" />
+    <item android:id="@+id/action_grey" android:title="@string/action_grey"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_shine" android:title="@string/action_shine"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Visor Img</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_rotate">Girar</string>
+    <string name="action_shine">Brillo</string>
+    <string name="action_grey">Gris</string>
+
+</resources>
